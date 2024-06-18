@@ -1,5 +1,5 @@
 ## Hi there, I'm David Serber 👋
-Lately, I've loved learning the latest web development innovations such as Next.js, Astro, Typescript, and Tailwind CSS. I think SSG and SSR along paired with markdown is such an interesting tech combo! I really like how developers can choose to be more responsible with the amount of javascript shipped to the client. 
+Lately, I've loved learning the latest web development innovations such as Next.js, Astro, Typescript, and Tailwind CSS. I think SSG and SSR paired with markdown is such an interesting tech combo! I really like how developers can choose to be more responsible with the amount of javascript shipped to the client. 
 
 Also, I'm particularly interested in how Flutter evolves in the cross platform app development space. 
 
