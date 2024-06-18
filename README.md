@@ -1,7 +1,7 @@
 ## Hi there, I'm David Serber 👋
 Lately I've loved learning the latest web development technology innovations such as Next.js, Astro, Typescript, and Tailwind. I think SSG and SSR along paired with markdown is such an interesting emerging tech combination! I really like how developers can choose to be more responsible with the amount of javascript shipped to the client. 
 
-Also, I'm particularly interested in how Flutter as a cross platform mobile development continues to evolve. 
+Also, I'm particularly interested in how Flutter evolves for cross platform app development. 
 
 I'm currently on the lookout for a role in web and/or mobile development, ideally developing in React and/or Flutter. I'd especially love working at a startup or small company since I really like working in small teams where I can participate in all stages of development and make an impact quickly. 
 
