@@ -1,5 +1,18 @@
-## Hi there 👋
+## Hi there, I'm David Serber 👋
+My developer journey started with an idea for a fintech startup while I was working as a financial planning assistant. I was using financial software to build complex financial plans for high net worth individuals. I loved using the software and could see the benefits to the clients but became frustrated that not everyone had access to software that could better their financial situation. So, I set about building my startup, called Margin, to make financial planning available to all people. I used low-code tools (Bubble.io). Ultimately, Margin didn't work out, but through the process I discovered that I love building technology solutions to solve real-world problems alongside team members that are passionate about tech. 
 
+Next, I decided to take my technical skills to the next level by buiding a mobile app using Flutter. I taught myself all stages of building software: ideation, design, UX/UI, app architecture, database design, reactivity, state management, etc.  I released the app, called Tag Groceries, in the iOS and Google Play stores. 
+
+Next, I had another startup idea to solve the problem of ordering clothing online and finding that it wouldn't fit. I built an algorithm to match people to clothing using 3-4 key measurements. I built and MVP of a marketplace to buy/sell clothing. Initially built using Flutter Web, it became obvious that Flutter Web was not fast enough. So, I learned the latest web technologies: Javascript, React(Next.js), Typescript, HTML, Tailwind CSS. I'm currently rebuilding the marketplace of this startup, called Size Match, using these technologies.  
+
+I'm currently on the lookout for a role in web and/or mobile development, ideally developing in React and/or Flutter. I'd especially love working at a startup or small company since I really like working in small teams where I can participate in all stages of development and make an impact quickly. If you're hiring for full-time, contract, freelance, or just want some advice about tech, let's chat!
+
+- Feel free to check out my portfolio website!
+- Web & mobile developer based in Minneapolis, MN
+- I build with: React(Nextjs), Typescript, Tailwind, Flutter, Firebase...
+- I'm currently learning Astro
+- I enjoy learning about minimalism, reading, traveling to Mexico (I'm fluent in Spanish), lifting weights
+  
 <!--
 **dserber/dserber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
