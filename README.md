@@ -11,6 +11,7 @@ If you're hiring for full-time, contract, freelance, or just want some advice ab
 - Web & mobile developer based in Minneapolis, MN
 - I build with: `React(Nextjs)`, `Typescript`, `Tailwind CSS`, `Flutter`, `Firebase`...
 - I'm currently learning Astro
+- I'm passionate about developer productivity, clean & readable code, and team communication
 - I enjoy learning about minimalism, reading, traveling to Mexico (I'm fluent in Spanish), lifting weights
   
 <!--
